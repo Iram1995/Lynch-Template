@@ -1,0 +1,1 @@
+It is a teplate designed using html,css
