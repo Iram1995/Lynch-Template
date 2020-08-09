@@ -24,7 +24,6 @@
 /* line 4, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/theme-default.scss */
 body {
   overflow-x: hidden;
-  font-family: 'Raleway', sans-serif;
   font-weight: normal;
   font-style: normal;
 }
@@ -314,8 +313,8 @@ h3 {
   color: #131313;
   display: inline-block;
   padding: 14px 44px;
-  font-family: "Montserrat", sans-serif;
-  font-size: 14px;
+  font-family: 'Gotham', sans-serif;
+    font-size: 14px;
   font-weight: 400;
   border: 0;
   border: 1px solid #F0542C;
@@ -349,7 +348,9 @@ h3 {
   color: #fff;
   display: inline-block;
   padding: 18px 44px;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Gotham', sans-serif;
+  
+  
   font-size: 16px;
   font-weight: 600;
   border: 0;
@@ -383,8 +384,7 @@ h3 {
 /* line 56, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_btn.scss */
 .boxed-btn5 {
   display: inline-block;
-  font-family: "Montserrat", sans-serif;
-  font-size: 16px;
+  font-family: 'Gotham', sans-serif;  font-size: 16px;
   font-weight: 600;
   border: 0;
   border: 1px solid transparent;
@@ -445,8 +445,7 @@ h3 {
   color: #fff;
   display: inline-block;
   padding: 18px 24px;
-  font-family: "Montserrat", sans-serif;
-  font-size: 14px;
+  font-family: 'Gotham', sans-serif;  font-size: 14px;
   font-weight: 400;
   border: 0;
   border: 1px solid #fff;
@@ -520,16 +519,14 @@ h3 {
   font-weight: 400;
   margin-bottom: 18px;
   display: block;
-  font-family: "Pacifico", cursive;
-}
+  font-family: 'Gotham', sans-serif;}
 
 /* line 10, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_section_title.scss */
 .section_title h3 {
   font-size: 50px;
   font-weight: 700;
   color: #1A0D01;
-  font-family: "Montserrat", sans-serif;
-  text-transform: uppercase;
+  font-family: 'Gotham', sans-serif;  text-transform: uppercase;
 }
 
 @media (max-width: 767px) {
@@ -906,8 +903,7 @@ h3 {
   border: 1px solid #F2C64D;
   color: #F2C64D;
   border-radius: 30px;
-  font-family: "Paytone One", sans-serif;
-}
+  font-family: 'Gotham', sans-serif;}
 
 /* line 89, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_header.scss */
 .header-area .main-header-area .book_room .book_btn a:hover {
@@ -945,8 +941,7 @@ h3 {
   font-weight: 400;
   display: inline-block;
   padding: 0px 0px 10px 0px;
-  font-family: "Paytone One", sans-serif;
-  position: relative;
+  font-family: 'Gotham', sans-serif;  position: relative;
   text-transform: capitalize;
 }
 
@@ -1228,8 +1223,7 @@ h3 {
 /* line 64, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text .deal_text span {
   font-size: 20px;
-  font-family: "Paytone One", sans-serif;
-  font-weight: 400;
+  font-family: 'Gotham', sans-serif;  font-weight: 400;
   color: #fff;
 }
 
@@ -1241,8 +1235,7 @@ h3 {
   line-height: 100px;
   margin-bottom: 27px;
   color: #fff;
-  font-family: "Paytone One", sans-serif;
-}
+  font-family: 'Gotham', sans-serif;}
 
 /* line 80, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text h3 span {
@@ -1268,8 +1261,7 @@ h3 {
 /* line 96, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text h4 {
   font-size: 140px;
-  font-family: "Pacifico", cursive;
-  color: #F2C64D;
+  font-family: 'Gotham', sans-serif;  color: #F2C64D;
   position: relative;
   margin-top: -80px;
 }
@@ -1479,8 +1471,7 @@ h3 {
   top: 8px;
   transition: all 0.15s ease-in-out;
   width: 5px;
-  font-family: 'themify';
-  color: #ddd;
+  font-family: 'Gotham', sans-serif;  color: #ddd;
   color: #FFFFFF;
   top: 5px;
   font-size: 12px;
@@ -1538,8 +1529,7 @@ h3 {
   top: 8px;
   transition: all 0.15s ease-in-out;
   width: 5px;
-  font-family: 'themify';
-  color: #ddd;
+  font-family: 'Gotham', sans-serif;  color: #ddd;
   color: #FFFFFF;
   top: 5px;
   font-size: 12px;
@@ -1890,8 +1880,7 @@ h3 {
   color: #fff;
   line-height: 80px;
   font-weight: 400;
-  font-family: "Paytone One", sans-serif;
-  text-transform: uppercase;
+  font-family: 'Gotham', sans-serif;  text-transform: uppercase;
   margin-bottom: 0;
 }
 
@@ -1906,8 +1895,7 @@ h3 {
 /* line 37, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_offers.scss */
 .video_area .video_area_inner span {
   font-size: 24px;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
+  font-family: 'Gotham', sans-serif;  font-weight: 700;
   display: block;
   margin-top: 14px;
   margin-bottom: 36px;
@@ -2073,8 +2061,7 @@ h3 {
   font-size: 30px;
   font-weight: 700;
   color: #F0542C;
-  font-family: "Montserrat", sans-serif;
-  display: block;
+  font-family: 'Gotham', sans-serif;  display: block;
   margin-bottom: 3px;
 }
 
@@ -2445,7 +2432,7 @@ h3 {
   color: #1A0D01;
   text-transform: capitalize;
   margin-bottom: 39px;
-  font-family: "Montserrat", sans-serif;
+ font-family: 'Gotham', sans-serif;
 }
 
 /* line 29, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_footer.scss */
@@ -2473,8 +2460,7 @@ h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 28px;
-  font-family: "Montserrat", sans-serif;
-}
+  font-family: 'Gotham', sans-serif;}
 
 /* line 46, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_footer.scss */
 .footer .footer_top .footer_widget .footer_logo {
@@ -2739,8 +2725,7 @@ h3 {
   color: #fff;
   font-weight: 400;
   margin-bottom: 0;
-  font-family: "Paytone One", sans-serif;
-  text-transform: uppercase;
+  font-family: 'Gotham', sans-serif;  text-transform: uppercase;
 }
 
 @media (max-width: 767px) {
@@ -2829,8 +2814,7 @@ h3 {
   font-size: 30px;
   color: #1A0D01;
   font-weight: 700;
-  font-family: "Montserrat", sans-serif;
-}
+  font-family: 'Gotham', sans-serif;}
 
 /* line 44, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_delicious.scss */
 .best_burgers_area .single_delicious .info p {
@@ -2840,8 +2824,20 @@ h3 {
   margin-top: 16px;
   margin-bottom: 6px;
   color: #6E6E6E;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Gotham', sans-serif;}
+  .title,h1,.h1,h2,.h2,h3,.h3,h4.home__subtitle,h5.home--uppercase,.sky-pilot-access-denied h5,.sky-pilot-access-denied .h5,h4,.h4,h5,.h5,h6,.h6,.header-logo,.home__title,.title--flex,.product-form label,.password__hero {
+    font-family: 'Gotham', sans-serif !important;
+ }
+ /* -- Pipeline override custom font: body font -- */
+.body, .h1--body, .h2--body, .h3--body, .h4--body, .h5--body, .h6--body, p {
+  font-family: 'Gotham', sans-serif !important;
 }
+/* -- Pipeline override custom font: accent - Subheadings and buttons -- */
+.accent, .uppercase, .nav--mobile .main-menu li a.nav-link, .nav--desktop .main-menu>li>a, .nav--desktop .grandparent .parent .child a, .nav--desktop .grandparent>.main-menu-dropdown>ul>.parent>a, .nav--desktop .grandparent>.main-menu-dropdown>ul>.child>a, .nav--desktop .main-menu>.parent>.main-menu-dropdown, .footer-social, .footer-payment, .sticker, .share__link, .sidebar__item a, .selector-wrapper label, .quantity-selector__wrapper label, .blog__tag, .item__vendor, .product__add__message, .h1--accent, .h2--accent, .h3--accent, .h4--accent, .h5--accent, .home__subtitle, .h6--accent, .footer-secondary, .footer-quicklinks, .breadcrumb{
+  font-family: 'Gotham', sans-serif !important;
+}
+/* - en
+/* - end - */
 
 /* line 53, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_delicious.scss */
 .best_burgers_area .single_delicious .info span {
@@ -2849,7 +2845,7 @@ h3 {
   font-weight: 700;
   font-size: 24px;
   color: #F0542C;
-  font-family: "Montserrat", sans-serif;
+ font-family: 'Gotham', sans-serif;
 }
 
 /* line 62, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_delicious.scss */
@@ -2926,7 +2922,7 @@ h3 {
   font-size: 16px;
   font-weight: 600;
   margin-bottom: 5px;
-  font-family: "Montserrat", sans-serif;
+ font-family: 'Gotham', sans-serif;
   margin-bottom: 0;
 }
 
